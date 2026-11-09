@@ -48,5 +48,5 @@ Mais de **24 anos** entre logística, transporte, suporte técnico e gestão, e 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomuloValentim&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-### 📫 Vamos conversar?
+### Vamos conversar?
 Aberto a conversas sobre automação, integrações e produto. Me chame no [LinkedIn](https://www.linkedin.com/in/romulo-valentim-8a2b42178) ou por e-mail: **romulovalentim@gmail.com**
